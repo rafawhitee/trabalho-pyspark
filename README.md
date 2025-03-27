@@ -60,3 +60,8 @@ mkdir C:\tmp\hive
 ```cmd
 winutils.exe chmod -R 777 C:\tmp\hive
 ```
+
+- Para o executar o PySpark:
+```cmd
+spark-submit main.py
+```
