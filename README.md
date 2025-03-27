@@ -4,7 +4,7 @@
 - Java 11 (https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
 - Hadoop (https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.4.1/hadoop-3.4.1.tar.gz)
 - Spark (https://www.apache.org/dyn/closer.lua/spark/spark-3.5.5/spark-3.5.5-bin-hadoop3.tgz)
-- Python 3.12.8 (https://www.python.org/downloads/release/python-3128/)
+- Python 3.11.0 (https://www.python.org/downloads/release/python-3110/)
 - Winutils (https://github.com/steveloughran/winutils/tree/master/hadoop-3.0.0/bin)
 
 ## Configurações
